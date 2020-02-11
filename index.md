@@ -10,8 +10,8 @@ humandate: "November 14–15, 2019"  # human-readable dates for the workshop (e.
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-11-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-11-15        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Maxim Belkin", "Neal Davis", "Dean Karres", "Elizabeth Wickes", "Dave Mussulman"] # boxed, comma-separated list of instructors' names as strings
-helper: ["Jessica Holmes"]     # boxed, comma-separated list of helpers' names
+instructor: ["Maxim Belkin", "Neal Davis", "Dave Mussulman", "Dena Strong"] # boxed, comma-separated list of instructors' names as strings
+helper: ["Jenna Jordan"]     # boxed, comma-separated list of helpers' names
 email: ["training@cse.illinois.edu"]    # boxed, comma-separated list of contact email addresses for the host
 collaborative_notes: "https://pad.carpentries.org/2019-11-14-nanomfg"            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "86974879205"
