@@ -6,7 +6,7 @@ address: "1030 National Center for Supercomputing Applications"      # full stre
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "40.115000,-88.224894"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "February 13–14, 2019"  # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "February 13–14, 2020"  # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-02-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-02-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
