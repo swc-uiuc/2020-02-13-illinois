@@ -13,7 +13,7 @@ enddate: 2020-02-14        # machine-readable end date for the workshop in YYYY-
 instructor: ["Maxim Belkin", "Neal Davis", "Dave Mussulman", "Dena Strong"] # boxed, comma-separated list of instructors' names as strings
 helper: ["Jenna Jordan"]     # boxed, comma-separated list of helpers' names
 email: ["training@cse.illinois.edu"]    # boxed, comma-separated list of contact email addresses for the host
-collaborative_notes: "https://pad.carpentries.org/2019-11-14-nanomfg"            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: "https://pad.carpentries.org/2020-02-13-illinois"            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "86974879205"
 ---
 
@@ -220,8 +220,8 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 {% endif %}
 
 
-{% comment %} 
-SURVEYS - DO NOT EDIT SURVEY LINKS 
+{% comment %}
+SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
